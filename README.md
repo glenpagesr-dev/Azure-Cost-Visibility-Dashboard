@@ -3,7 +3,7 @@
 **Business Outcome:** Gives business owners real-time visibility into their Azure spend and automatically alerts them before the bill becomes a problem — deployed entirely through Terraform IaC.
 
 ---
-# 🎥 [Watch me Build it Here !](https://github.com/glenpagesr-dev/Azure-Cost-Visibility-Dashboard)
+# 🎥 [Watch me Build it Here !](https://www.loom.com/share/4ec5101710564a87a375517998375e72)
 ## 📋 Table of Contents
 
 - [Overview](#overview)
